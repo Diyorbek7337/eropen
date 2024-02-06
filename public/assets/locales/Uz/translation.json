@@ -1,0 +1,63 @@
+{
+    "lang": "Uz",
+    "nav": {
+        "home": "Bosh Sahifa",
+        "connect": "Bog'lanish",
+        "more": "Batafsil",
+        "language": "Til"
+    },
+    "Home": {
+        "title": "ZAIFLIK ERKAKGA YARASHMAYDI",
+        "more": "BATAFSIL",
+        "compositionTitle": "Tarkibi (2 kapsula -700 mg):",
+        "compositionText1": "Faol moddalar:",
+        "compositionText2": "Peru maki ildizi 100 mg, Tongat Ali (Euricoma longifoli) 350 mg, Jenshen 60 mg, L-karnitin 50 mg, Rux oksid 33 mg, Tribulus terrestris 67 mg.",
+        "compositionText3": "Yordamchi moddalar: maltodekstrin.",
+        "pharmacologicalTitle": "Farmokologik peru maki ildizi:",
+        "pharmacologicalText1": "- Peru maki - erektsiya yanada barqaror va uzoq davom etadi.",
+        "pharmacologicalText2": "- Tongat Ali - erta urug'ajratish va siydik-tanosil tizimi va prostata bezi kasalliklari ehtimolini kamaytiradi.",
+        "pharmacologicalText3": "-- Jenshen - spermatozoidlarni ishlab chiqaradigan moyaklar faoliyatini tiklashga yordam beradi. Jinsiy tonusni oshiradi va his etishni kuchaytiradi.",
+        "pharmacologicalText4": "- L-karnitin - potentsiyani tiklaydi. Jinsiy olat mushaklarining bloklanishini kamaytiradi.",
+        "pharmacologicalText5": "- Rux oksidi - spermatoziodlar sintezida ishtirok etadi.",
+        "pharmacologicalText6": "- Tribulus terrestris - testosteron darajasini nazorat qilishning markaziy mexanizmlariga ta'sir qiladi va organizm tomonidan uning tabiiy sintezlanishini kuchaytiradi. Fertillikni tiklaydi.",
+        "applicationTitle": " Qo'llanilishi:",
+        "applicationText": "- Bu etarlicha jinsiy qo'zg'alishni ta'minlaydigan, jinsiy olatning qon tomirlarini bo'shashtiradigan va erektsiya yuzaga kelishiga yordam beradigan va jinsiy maylni (fertillikni) oshiradigan kompleks preparat. Preparat potentsiyani (quvvatni) oshirish, libidoni kuchaytirish va ereksiyani yaxshilash uchun mo'ljallangan. EROPEN-700 formulasi shunday tuzilganki, uning tarkibiy qismlari bir-birini to'ldiradi va maksimal darajada ta'sir qiladi. Bu erkaklarga faol jinsiy maylni va uni qondirish qobiliyatini uzoq vaqt davomida saqlab qolishga imkon beradi.",
+        "methodTitle": "Qo'llash usuli va dozasi:",
+        "methodText": "EROPEN-700 jinsiy aloqadan 1 soat oldin, shuningdek, jinsiy aloqadan qat'iy nazar, 2 ta kapsuladan qo'llaniladi.",
+        "methodText1": "EROPEN -700 ni qabul qilishdan oldin ko'p miqdorda spirtli ichimlik ichish va yogliq ovqatni iste'mol tavsiya etilmaydi.",
+        "sideTitle": "Nojo'ya tasirlari:",
+        "sideText1": "Juda kam hollarda me'da ichak sistemasida o'zgarish bo'lishi mumkin.",
+        "sideText2": "Qo'llash mumkin bo'lmagan holatlar:",
+        "sideText3": "Preparatning komponentlariga nisbatan yuqori sezuvchanlik.",
+        "releaseTitle": "Chiqarilish shakli:",
+        "releaseText1": "Kapsula 30 tadan qo'llash buyicha yo'riqnoma bilan birga karton qutida joylangan.",
+        "releaseText2": "Dori vositasi emas. BFQ",
+        "storageTitle": "Saqlash sharoiti:",
+        "storageText1": "Yorug'likdan himoyalangan quruq (namlik 70% dan oshmagan) joyda +25⁰C dan yuqori bo'lmagan haroratda, zich yopilgan holatda bolalar olaolmaydigan joyda saqlansin.",
+        "storageText2": "Yaroqlik muddati: 2 yil."
+    },
+    "swiper": {
+        "swiperText1": "Kuchli hissiyotlar olami!",
+        "swiperText2": "Haqiqiy erkaklar tanlovi!",
+        "swiperText3": "Yengilmaganlar uchun!"
+    },
+    "social": {
+        "send": "Buyurtma qilish"
+    },
+    "connect": {
+        "contact": "Biz bilan bog'laning",
+        "input1": "Ismingiz",
+        "input2": "Telefon raqamingiz",
+        "more": "Batafsil ma'lumot olish",
+        "textarea": "Izoh qoldiring",
+        "send": "Yuborish",
+        "popup1": "Murojaatingiz uchun tashakkur! Biz siz bilan 30 soniya ichida",
+        "popup2": " raqamiga bog'lanamiz!",
+        "popupError": "Xatolik yuz berdi"
+    },
+    "footer": {
+        "footerTitle": "Juftingiz",
+        "footerTitle1": "uchun!",
+        "footerText": "'Logo Group' tomonidan ishlandi."
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "lang": "En",
+    "nav": {
+        "home": "Home",
+        "connect": "Contact",
+        "more": "Learn more",
+        "language": "Language"
+    },
+    "Home": {
+        "title": "WEAKNESS DOESN'T SUIT A MAN!",
+        "more": "LEARN MORE",
+        "compositionTitle": "Composition (2capsules -700mg):",
+        "compositionText1": "Active ingredients:",
+        "compositionText2": " Peruvian maca root 100 mg, Tongata grain (Eurycoma longifoly) 350 mg, ginseng 60 mg, L-carnitine 50 mg, Zincoxide 33 mg, Tribulus terrestris 67 mg. ",
+        "compositionText3": "Excipients: maltodextrin.",
+        "pharmacologicalTitle": "Pharmacological Peruvian Maca Root:",
+        "pharmacologicalText1": "- Peruvian Maki-erections are more stable and last longer.",
+        "pharmacologicalText2": "- Tongat Ali-reduces the likelihood of premature fertilization and diseases of the genitourinary system and prostate.",
+        "pharmacologicalText3": "- Ginseng-helps to restore the activity of the testicles that produce sperm. Increases sexual tone and enhances sensations.",
+        "pharmacologicalText4": "- L-carnitine-restores potency. Reduces the blockage of the penile muscles.",
+        "pharmacologicalText5": "- Zinc oxide-participates in the synthesis of spermatozoa.",
+        "pharmacologicalText6": "- Tribulus terrestris-affects the central mechanisms of testosterone level control and enhances its natural synthesis by the body. Restores fertility.",
+        "applicationTitle": "Application:",
+        "applicationText": "- This is a complex drug that provides sufficient sexual arousal, relaxes the blood vessels of the penis and promotes the appearance of an erection, increases sexual desire (fertility). The drug is intended to increase potency( potency), increase libido and improve erection. The formula 'EROPEN-700' is formulated in such a way that its components complement each other and have the maximum effect. This allows men to maintain an active sexual inclination and the ability to satisfy it for a long time.",
+        "methodTitle": "Method of application and dosage:",
+        "methodText": "EROPEN-700 is used 1 hour before sexual intercourse, as well as 2 capsules, regardless of gender.",
+        "methodText1": "Before taking EROPEN -700, it is not recommended to drink a lot of alcohol and eat fatty foods.",
+        "sideTitle": "Side effects:",
+        "sideText1": "In very rare cases, there may be changes in the gastrointestinal tract.",
+        "sideText2": "Contraindications: hypersensitivity to the components of the drug.",
+        "sideText3": "The order of delivery in pharmacies: without a prescription.",
+        "releaseTitle": "Release form:",
+        "releaseText1": "the capsule is packed in a cardboard box with instructions for use of 30 pieces.",
+        "releaseText2": "Not a cure. BFC.",
+        "storageTitle": "Storage conditions:",
+        "storageText1": "Store in a dry place protected from light (humidity no more than 70%) at a temperature no higher than +25 ° C in a tightly closed state, out of the reach of children.",
+        "storageText2": "Shelf life: 2 years."
+    },
+    "swiper": {
+        "swiperText1": "A world of strong emotions!",
+        "swiperText2": "The choice of real men!",
+        "swiperText3": "For the invincible"
+    },
+    "social": {
+        "send": "Order"
+    },
+    "connect": {
+        "contact": "Contact us",
+        "input1": "Your Name",
+        "input2": "Your Number",
+        "more": "Learn more",
+        "textarea": "Enter your comment here",
+        "send": "Send",
+        "popup1": "Thanks for your application! We will contact you on number",
+        "popup2": "within 30 seconds!",
+        "popupError": "Something was wrong"
+    },
+    "footer": {
+        "footerTitle": "For",
+        "footerTitle1": "Your Partner!",
+        "footerText": "Powered by 'Logo Group'"
+    }
+}

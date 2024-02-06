@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  /* background-color: #000; */
+  box-sizing: border-box;
+  /* width: 100%; */
+  font-family: 'Inter';
+}
+button,
+input,
+textarea {
+    font-family: inherit
+}
+button {
+  cursor: pointer
+}
+::-webkit-scrollbar {
+  width: 10px;
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease;
+  border-radius: 1rem
+}
+::-webkit-scrollbar-track {
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease;
+  background-color: #616161
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 1rem;
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+::-webkit-scrollbar-thumb:hover {
+  border-radius: 1rem;
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease
 }
